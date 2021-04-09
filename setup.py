@@ -5,7 +5,7 @@ import os
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix="/")
-token = "ODA0NTU3ODIzMDE0ODYyOTMy.YBOE3A.Qv_YUE4k6updLfVMQxIBdi08XS8"
+token = input()
 
 
 @bot.event
